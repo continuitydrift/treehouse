@@ -2,6 +2,9 @@ site_name: Treehouse
 
 nav:
   - Home: index.md
+  - Solar: solar.md
+  - Walls & Insulation: walls.md
+  - Gardens: gardens.md
 
 theme:
   name: material
