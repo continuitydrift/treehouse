@@ -17,7 +17,7 @@ Now I'm here trying to understand what I have on my wall, and figuring out how t
 
 As before, I'm looking for help in knowing what to order, and how to safely wire it all up. Let me know if you have any interest in helping with or watching the physical wiring, and I'll tell you when the parts get here.
 
-*[Solar installation photo coming soon...]*
+![solar-install](./images/solar.jpg)
 
 ### Story
 
