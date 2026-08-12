@@ -17,11 +17,11 @@ Now I'm here trying to understand what I have on my wall, and figuring out how t
 
 As before, I'm looking for help in knowing what to order, and how to safely wire it all up. Let me know if you have any interest in helping with or watching the physical wiring, and I'll tell you when the parts get here.
 
-![solar-install](./images/solar.jpg)
+*[Solar installation photo coming soon...]*
 
 ### Story
 
-"You don't think he's on the roof, do you?" My brother asked. We'd taken a break, gone to cool off by the pond. My father had kept working, wanting to get everything installed that day, rather than staying the night. Considering all that had to get done: running wires through the walls, hooking the batteries to the controller, the shunt, and the inverter, I was sceptical we could finish. I also realized the next step would be mounting the panels, and we'd left our father by himself.
+"You don't think he's on the roof, do you?" my brother asked. We'd taken a break, gone to cool off by the pond. My father had kept working, wanting to get everything installed that day, rather than staying the night. Considering all that had to get done: running wires through the walls, hooking the batteries to the controller, the shunt, and the inverter, I was skeptical we could finish. I also realized the next step would be mounting the panels, and we'd left our father by himself.
 
 "Yeah," I said, "he's probably on the roof."
 
@@ -91,7 +91,7 @@ When I mis-measured distances between drill holes, and had to wiggle the drill a
 
 There was power. They'd brought a couple lights to plug into the inverter, and my dad showed me how to take one of the led strips ("There are the lights I take to Burning Man, but I guess I can buy more") and by touching the right wires together, got them to luminate in different colors. 
 
-I left them on, live wires crimped into little plastic caps, wound up in a spool. After they left, I went back up and found that the plastic spool was melting, along with the adhesive on the back of the strip. I untwisted the wires, and unwound the lights, deciding not to try to wire anything else up to DC until I at least had some breakers hooked up.
+I left them on, live wires crimped into little plastic caps, wound up in a spool. After they left, I went back up and found that the plastic spool was melting, along with the adhesive on the back of the strip. I untwisted the wires, and unwound the lights, deciding not to try to wire anything else up to DC until I at least had some fuses hooked up.
 
 ___
 ## July 16, 2026 - Initial Solar Setup Planning
