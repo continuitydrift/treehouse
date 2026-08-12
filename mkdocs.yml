@@ -1,0 +1,19 @@
+site_name: Treehouse
+
+nav:
+  - Home: index.md
+
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: green
+    accent: light green
+
+markdown_extensions:
+  - tables
+  - admonition
+
+plugins:
+  - search
+  - tags
