@@ -1,5 +1,6 @@
 site_name: Treehouse
-site_dir: docs
+docs_dir: src
+site_dir: site
 
 nav:
   - Home: index.md
