@@ -6,7 +6,7 @@ tags: [treehouse, solar]
 
 # Solar System
 
-## August 12, 2026 - [Switches, Fuses, Wires]
+## August 12, 2026 - Switches, Fuses, Wires
 
 
 The Treehouse has solar.
