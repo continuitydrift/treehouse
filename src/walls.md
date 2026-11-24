@@ -20,14 +20,13 @@ In the continuity drift novel set farthest in the "past", telepaths take up resi
 
 This seems too portentous, or pretentious, not having written for a while. There is more to explain, threads leading out like strips of glitchy LEDs, context and qualifications.    
 
+The stock market crashed, then came back up. In a couple days there may be a plume of toxic lead. I need to take a shower, to wash off the scratch of insulation.
 
 # 10/12
 
 I'm living here, but somehow above the village. 
 
 Not only will I have to live with my decisions about the walls, I will have to live in them.
-
-# Chicago
 
 Anyone that ends up as a character in a post or story will be one of those that I send it too. No one will be put online without consent. No doxxing. 
 
